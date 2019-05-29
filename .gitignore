@@ -1,6 +1,11 @@
-node_modules
+node_modules/
+public/bundle.js
+public/bundle.js.map
+public/style.css
+public/style.css.map
 .cache/
 dist/
 .env
 .DS_Store
 .vscode
+
